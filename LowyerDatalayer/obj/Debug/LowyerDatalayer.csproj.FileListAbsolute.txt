@@ -1,0 +1,10 @@
+C:\Users\AbuEhab\Desktop\ggggg\LowyerDatalayer\bin\Debug\LowyerDatalayer.dll.config
+C:\Users\AbuEhab\Desktop\ggggg\LowyerDatalayer\bin\Debug\LowyerDatalayer.dll
+C:\Users\AbuEhab\Desktop\ggggg\LowyerDatalayer\bin\Debug\LowyerDatalayer.pdb
+C:\Users\AbuEhab\Desktop\ggggg\LowyerDatalayer\obj\Debug\LowyerDatalayer.dll
+C:\Users\AbuEhab\Desktop\ggggg\LowyerDatalayer\obj\Debug\LowyerDatalayer.pdb
+C:\Users\AbuEhab\Documents\GitHub\TheCourtSystem\LowyerDatalayer\bin\Debug\LowyerDatalayer.dll.config
+C:\Users\AbuEhab\Documents\GitHub\TheCourtSystem\LowyerDatalayer\bin\Debug\LowyerDatalayer.dll
+C:\Users\AbuEhab\Documents\GitHub\TheCourtSystem\LowyerDatalayer\bin\Debug\LowyerDatalayer.pdb
+C:\Users\AbuEhab\Documents\GitHub\TheCourtSystem\LowyerDatalayer\obj\Debug\LowyerDatalayer.dll
+C:\Users\AbuEhab\Documents\GitHub\TheCourtSystem\LowyerDatalayer\obj\Debug\LowyerDatalayer.pdb
