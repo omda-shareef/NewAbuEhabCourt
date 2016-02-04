@@ -26,8 +26,7 @@ namespace LowyerDatalayer.Tables_Classes
             var q = CompiledQuery.Compile((DbDataContext db, int i) =>
                                              db.Employees.Single(d => d.Id == i));
             var newEmp = q(DbContext, xid);
-      
-            newEmp.EmployeeName = emp.EmployeeName;
+     
             newEmp.Address = emp.Address;
             newEmp.IdCard = emp.IdCard;
             newEmp.Phone = emp.Phone;
