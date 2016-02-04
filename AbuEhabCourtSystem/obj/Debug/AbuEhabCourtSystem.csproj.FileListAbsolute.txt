@@ -37,3 +37,6 @@ C:\Users\AbuEhab\Documents\GitHub\TheCourtSystem\AbuEhabCourtSystem\obj\Debug\Ab
 C:\Users\AbuEhab\Documents\GitHub\TheCourtSystem\AbuEhabCourtSystem\obj\Debug\AbuEhabCourtSystem.csproj.GenerateResource.Cache
 C:\Users\AbuEhab\Documents\GitHub\TheCourtSystem\AbuEhabCourtSystem\obj\Debug\AbuEhabCourtSystem.exe
 C:\Users\AbuEhab\Documents\GitHub\TheCourtSystem\AbuEhabCourtSystem\obj\Debug\AbuEhabCourtSystem.pdb
+C:\Users\MARCELO\Downloads\Compressed\TheCourtSystem\TheCourtSystem\AbuEhabCourtSystem\bin\Debug\AbuEhabCourtSystem.exe.config
+C:\Users\MARCELO\Downloads\Compressed\TheCourtSystem\TheCourtSystem\AbuEhabCourtSystem\obj\Debug\AbuEhabCourtSystem.exe
+C:\Users\MARCELO\Downloads\Compressed\TheCourtSystem\TheCourtSystem\AbuEhabCourtSystem\obj\Debug\AbuEhabCourtSystem.pdb

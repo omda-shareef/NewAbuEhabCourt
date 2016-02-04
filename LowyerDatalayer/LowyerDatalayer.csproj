@@ -54,6 +54,7 @@
     <Compile Include="Tables Classes\ClientCmd.cs" />
     <Compile Include="Tables Classes\DataBase.cs" />
     <Compile Include="Tables Classes\EmployeeCmd.cs" />
+    <Compile Include="Tables Classes\IssueCmd.cs" />
     <Compile Include="Tables Classes\LawyerCmd.cs" />
   </ItemGroup>
   <ItemGroup>
